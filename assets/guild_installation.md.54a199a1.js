@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,b as n}from"./app.990ebda4.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guild/installation.md"}'),o={name:"guild/installation.md"},s=n("p",null,"指南",-1),i=[s];function r(c,l,_,d,p,m){return a(),e("div",null,i)}const h=t(o,[["render",r]]);export{f as __pageData,h as default};
